@@ -1,16 +1,12 @@
-# personal_expense_tracker
+# Personal Expense Tracker App
 
-A new Flutter project.
+This App helps us to to track the weekly statistics of our expenses
 
-## Getting Started
+•	The user can add expenses with titles by entering the amount and the date of the expense.
+•	The app makes use of a chart with bars to present a comparison of weekly spending.
+•	The user is able to find out about the day with the highest expenditures and the total amount spent on that day.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://github.com/25Vaishnavibarge17/Personal-Expense-Tracker/assets/89184566/11f488d7-60f0-465f-bfe1-623d12a8b274
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
