@@ -10,5 +10,8 @@ This App helps us to to track the weekly statistics of our expenses
 
 
 
-                    https://github.com/25Vaishnavibarge17/Personal-Expense-Tracker/assets/89184566/11f488d7-60f0-465f-bfe1-623d12a8b274
+
+
+
+https://github.com/25Vaishnavibarge17/Personal-Expense-Tracker/assets/89184566/ad46310d-8d16-4198-9864-256be784b109
 
