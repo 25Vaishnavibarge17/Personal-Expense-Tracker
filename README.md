@@ -11,5 +11,6 @@ This App helps us to to track the weekly statistics of our expenses
 •	User can also delete expenses
 
 
-https://github.com/25Vaishnavibarge17/Personal-Expense-Tracker/assets/89184566/ad46310d-8d16-4198-9864-256be784b109
+https://github.com/25Vaishnavibarge17/Personal-Expense-Tracker/assets/89184566/f8e117ac-8545-4199-80cd-1a76986f5d3c
+
 
